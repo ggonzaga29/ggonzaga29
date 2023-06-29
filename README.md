@@ -1,4 +1,3 @@
-<h1 align="center">I'm Gian Gonzaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggonzaga29&label=Profile%20views&color=0e75b6&style=flat" alt="ggonzaga29" /> </p>
 
 
