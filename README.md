@@ -1,13 +1,11 @@
 <h1 align="center">I'm Gian Gonzaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggonzaga29&label=Profile%20views&color=0e75b6&style=flat" alt="ggonzaga29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ggonzaga29" alt="ggonzaga29" /></a> </p>
 
 - 🔭 I’m currently working on [snipz](http://www.github.com/ggonzaga29/snipz)
 
 - 📫 How to reach me **gonzagagianfrancesco@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
