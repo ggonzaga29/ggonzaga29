@@ -5,5 +5,5 @@
 
 - 📫 How to reach me **gonzagagianfrancesco@gmail.com**
 
-- 📖 My Portfolio site: [giangonzaga.vercel.app](https://giangonzaga.vercel.app/) 
+- 📖 My Portfolio site: [giangonzaga.tech](https://giangonzaga.tech/) 
 
