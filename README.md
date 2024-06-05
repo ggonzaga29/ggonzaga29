@@ -3,6 +3,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![days](https://github.com/ggonzaga29/ggonzaga29/assets/63789867/11285455-2e2b-4917-8a09-95664cfa1a05)
+
 ![9e5edd22-71f0-4ba2-a56f-fd1a27d720cd](https://github.com/ggonzaga29/ggonzaga29/assets/63789867/1a31543d-f99f-4226-ad6b-c8bfde931ff5)
 
-![days](https://github.com/ggonzaga29/ggonzaga29/assets/63789867/11285455-2e2b-4917-8a09-95664cfa1a05)
