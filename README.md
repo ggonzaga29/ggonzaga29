@@ -11,4 +11,3 @@ Other             52 hrs 13 mins  >------------------------   05.51 %
 ```
 
 <!--END_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@ggonzaga29/b22a6f8c-76af-447b-93f3-adaad66bd701.svg"></embed></figure>
