@@ -1,11 +1,9 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -30,7 +28,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: Gian Gonzaga
-          AUTHOR_EMAIL: gian@giangonzaga.com
+          COMMITTER_NAME: github-actions[bot]
+          COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
+          AUTHOR_NAME: github-actions[bot]
+          AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
